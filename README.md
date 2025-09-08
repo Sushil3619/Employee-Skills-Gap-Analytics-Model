@@ -183,3 +183,4 @@ For support and questions, please open an issue in the GitHub repository.
 - [ ] Real-time skill tracking
 - [ ] Automated training program matching
 - [ ] Multi-language support
+
