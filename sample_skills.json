@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Python",
+    "category": "Technical",
+    "description": "Python programming language proficiency"
+  },
+  {
+    "name": "JavaScript",
+    "category": "Technical", 
+    "description": "JavaScript programming language proficiency"
+  },
+  {
+    "name": "React",
+    "category": "Technical",
+    "description": "React.js framework for building user interfaces"
+  },
+  {
+    "name": "Node.js",
+    "category": "Technical",
+    "description": "Node.js runtime for server-side JavaScript"
+  },
+  {
+    "name": "SQL",
+    "category": "Technical",
+    "description": "Structured Query Language for database management"
+  },
+  {
+    "name": "AWS",
+    "category": "Technical",
+    "description": "Amazon Web Services cloud platform"
+  },
+  {
+    "name": "Docker",
+    "category": "Technical",
+    "description": "Containerization technology"
+  },
+  {
+    "name": "Kubernetes",
+    "category": "Technical",
+    "description": "Container orchestration platform"
+  },
+  {
+    "name": "Linux",
+    "category": "Technical",
+    "description": "Linux operating system administration"
+  },
+  {
+    "name": "CI/CD",
+    "category": "Technical",
+    "description": "Continuous Integration/Continuous Deployment practices"
+  },
+  {
+    "name": "Machine Learning",
+    "category": "Technical",
+    "description": "Machine learning algorithms and implementations"
+  },
+  {
+    "name": "Deep Learning",
+    "category": "Technical",
+    "description": "Deep learning and neural networks"
+  },
+  {
+    "name": "TensorFlow",
+    "category": "Technical",
+    "description": "TensorFlow machine learning framework"
+  },
+  {
+    "name": "Statistics",
+    "category": "Domain Knowledge",
+    "description": "Statistical analysis and interpretation"
+  },
+  {
+    "name": "Excel",
+    "category": "Technical",
+    "description": "Microsoft Excel proficiency"
+  },
+  {
+    "name": "HTML/CSS",
+    "category": "Technical",
+    "description": "HTML markup and CSS styling"
+  },
+  {
+    "name": "Digital Marketing",
+    "category": "Domain Knowledge",
+    "description": "Digital marketing strategies and execution"
+  },
+  {
+    "name": "Content Writing",
+    "category": "Soft Skills",
+    "description": "Content creation and writing skills"
+  },
+  {
+    "name": "Social Media Marketing",
+    "category": "Domain Knowledge",
+    "description": "Social media platform marketing"
+  },
+  {
+    "name": "SEO",
+    "category": "Technical",
+    "description": "Search Engine Optimization"
+  },
+  {
+    "name": "Analytics",
+    "category": "Technical",
+    "description": "Data analytics and interpretation"
+  },
+  {
+    "name": "Recruitment",
+    "category": "Domain Knowledge",
+    "description": "Talent acquisition and recruitment processes"
+  },
+  {
+    "name": "Employee Relations",
+    "category": "Soft Skills",
+    "description": "Managing employee relationships and conflicts"
+  },
+  {
+    "name": "Performance Management",
+    "category": "Leadership",
+    "description": "Employee performance evaluation and improvement"
+  },
+  {
+    "name": "Training & Development",
+    "category": "Leadership",
+    "description": "Employee training program development"
+  },
+  {
+    "name": "Communication",
+    "category": "Soft Skills",
+    "description": "Effective verbal and written communication"
+  },
+  {
+    "name": "Project Management",
+    "category": "Leadership",
+    "description": "Planning, executing, and managing projects"
+  },
+  {
+    "name": "Leadership",
+    "category": "Leadership",
+    "description": "Leading and inspiring teams"
+  },
+  {
+    "name": "Problem Solving",
+    "category": "Soft Skills",
+    "description": "Analytical thinking and problem resolution"
+  },
+  {
+    "name": "Teamwork",
+    "category": "Soft Skills",
+    "description": "Collaborative work and team integration"
+  }
+]

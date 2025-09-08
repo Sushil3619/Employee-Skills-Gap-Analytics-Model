@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Junior Software Developer",
+    "description": "Entry-level software developer role focusing on web development",
+    "department": "Engineering",
+    "level": "Junior",
+    "required_skills": [
+      {"skill_name": "JavaScript", "required_level": 3},
+      {"skill_name": "HTML/CSS", "required_level": 3},
+      {"skill_name": "React", "required_level": 2},
+      {"skill_name": "SQL", "required_level": 2},
+      {"skill_name": "Problem Solving", "required_level": 3}
+    ]
+  },
+  {
+    "title": "Software Developer",
+    "description": "Mid-level software developer with full-stack capabilities",
+    "department": "Engineering",
+    "level": "Mid",
+    "required_skills": [
+      {"skill_name": "Python", "required_level": 4},
+      {"skill_name": "JavaScript", "required_level": 4},
+      {"skill_name": "React", "required_level": 4},
+      {"skill_name": "SQL", "required_level": 3},
+      {"skill_name": "Problem Solving", "required_level": 4},
+      {"skill_name": "Teamwork", "required_level": 3}
+    ]
+  },
+  {
+    "title": "Senior Software Developer",
+    "description": "Senior developer with leadership and mentoring responsibilities",
+    "department": "Engineering",
+    "level": "Senior",
+    "required_skills": [
+      {"skill_name": "Python", "required_level": 5},
+      {"skill_name": "JavaScript", "required_level": 4},
+      {"skill_name": "React", "required_level": 4},
+      {"skill_name": "Node.js", "required_level": 4},
+      {"skill_name": "SQL", "required_level": 4},
+      {"skill_name": "AWS", "required_level": 3},
+      {"skill_name": "Leadership", "required_level": 3},
+      {"skill_name": "Problem Solving", "required_level": 4},
+      {"skill_name": "Communication", "required_level": 4}
+    ]
+  },
+  {
+    "title": "DevOps Engineer",
+    "description": "Infrastructure and deployment specialist",
+    "department": "Engineering",
+    "level": "Mid",
+    "required_skills": [
+      {"skill_name": "AWS", "required_level": 4},
+      {"skill_name": "Docker", "required_level": 4},
+      {"skill_name": "Kubernetes", "required_level": 4},
+      {"skill_name": "Linux", "required_level": 4},
+      {"skill_name": "CI/CD", "required_level": 4},
+      {"skill_name": "Python", "required_level": 3},
+      {"skill_name": "Problem Solving", "required_level": 4}
+    ]
+  },
+  {
+    "title": "Data Analyst",
+    "description": "Data analysis and reporting specialist",
+    "department": "Data Science",
+    "level": "Mid",
+    "required_skills": [
+      {"skill_name": "SQL", "required_level": 4},
+      {"skill_name": "Python", "required_level": 4},
+      {"skill_name": "Excel", "required_level": 4},
+      {"skill_name": "Statistics", "required_level": 4},
+      {"skill_name": "Analytics", "required_level": 4},
+      {"skill_name": "Communication", "required_level": 3}
+    ]
+  },
+  {
+    "title": "Data Scientist",
+    "description": "Advanced data science and machine learning expert",
+    "department": "Data Science",
+    "level": "Senior",
+    "required_skills": [
+      {"skill_name": "Python", "required_level": 5},
+      {"skill_name": "Machine Learning", "required_level": 4},
+      {"skill_name": "Statistics", "required_level": 5},
+      {"skill_name": "SQL", "required_level": 4},
+      {"skill_name": "TensorFlow", "required_level": 4},
+      {"skill_name": "Deep Learning", "required_level": 4},
+      {"skill_name": "Communication", "required_level": 4},
+      {"skill_name": "Problem Solving", "required_level": 4}
+    ]
+  },
+  {
+    "title": "Marketing Specialist",
+    "description": "Digital marketing and content specialist",
+    "department": "Marketing",
+    "level": "Mid",
+    "required_skills": [
+      {"skill_name": "Digital Marketing", "required_level": 4},
+      {"skill_name": "Content Writing", "required_level": 4},
+      {"skill_name": "Social Media Marketing", "required_level": 4},
+      {"skill_name": "SEO", "required_level": 3},
+      {"skill_name": "Analytics", "required_level": 3},
+      {"skill_name": "Communication", "required_level": 4}
+    ]
+  },
+  {
+    "title": "HR Manager",
+    "description": "Human resources management and strategy",
+    "department": "HR",
+    "level": "Senior",
+    "required_skills": [
+      {"skill_name": "Recruitment", "required_level": 4},
+      {"skill_name": "Employee Relations", "required_level": 4},
+      {"skill_name": "Performance Management", "required_level": 4},
+      {"skill_name": "Training & Development", "required_level": 4},
+      {"skill_name": "Communication", "required_level": 5},
+      {"skill_name": "Leadership", "required_level": 4},
+      {"skill_name": "Problem Solving", "required_level": 4}
+    ]
+  }
+]

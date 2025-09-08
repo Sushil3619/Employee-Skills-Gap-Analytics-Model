@@ -1,0 +1,131 @@
+[
+  {
+    "employee_id": "EMP001",
+    "first_name": "Rahul",
+    "last_name": "Sharma",
+    "email": "rahul.sharma@company.com",
+    "department": "Engineering",
+    "hire_date": "2022-01-15",
+    "role": "Software Developer",
+    "skills": [
+      {"skill_name": "Python", "proficiency_level": 4},
+      {"skill_name": "JavaScript", "proficiency_level": 3},
+      {"skill_name": "React", "proficiency_level": 3},
+      {"skill_name": "SQL", "proficiency_level": 2}
+    ]
+  },
+  {
+    "employee_id": "EMP002",
+    "first_name": "Priya",
+    "last_name": "Patel",
+    "email": "priya.patel@company.com",
+    "department": "Engineering",
+    "hire_date": "2021-06-10",
+    "role": "Senior Software Developer",
+    "skills": [
+      {"skill_name": "Python", "proficiency_level": 5},
+      {"skill_name": "JavaScript", "proficiency_level": 4},
+      {"skill_name": "React", "proficiency_level": 4},
+      {"skill_name": "Node.js", "proficiency_level": 4},
+      {"skill_name": "SQL", "proficiency_level": 4},
+      {"skill_name": "AWS", "proficiency_level": 3}
+    ]
+  },
+  {
+    "employee_id": "EMP003",
+    "first_name": "Amit",
+    "last_name": "Kumar",
+    "email": "amit.kumar@company.com",
+    "department": "Data Science",
+    "hire_date": "2022-03-20",
+    "role": "Data Analyst",
+    "skills": [
+      {"skill_name": "Python", "proficiency_level": 3},
+      {"skill_name": "SQL", "proficiency_level": 4},
+      {"skill_name": "Excel", "proficiency_level": 5},
+      {"skill_name": "Machine Learning", "proficiency_level": 2},
+      {"skill_name": "Statistics", "proficiency_level": 4}
+    ]
+  },
+  {
+    "employee_id": "EMP004",
+    "first_name": "Sneha",
+    "last_name": "Reddy",
+    "email": "sneha.reddy@company.com",
+    "department": "Marketing",
+    "hire_date": "2021-11-05",
+    "role": "Marketing Specialist",
+    "skills": [
+      {"skill_name": "Digital Marketing", "proficiency_level": 4},
+      {"skill_name": "Content Writing", "proficiency_level": 5},
+      {"skill_name": "Social Media Marketing", "proficiency_level": 4},
+      {"skill_name": "Analytics", "proficiency_level": 3},
+      {"skill_name": "SEO", "proficiency_level": 3}
+    ]
+  },
+  {
+    "employee_id": "EMP005",
+    "first_name": "Vikash",
+    "last_name": "Singh",
+    "email": "vikash.singh@company.com",
+    "department": "Engineering",
+    "hire_date": "2020-08-12",
+    "role": "DevOps Engineer",
+    "skills": [
+      {"skill_name": "AWS", "proficiency_level": 4},
+      {"skill_name": "Docker", "proficiency_level": 4},
+      {"skill_name": "Kubernetes", "proficiency_level": 3},
+      {"skill_name": "Python", "proficiency_level": 3},
+      {"skill_name": "Linux", "proficiency_level": 5},
+      {"skill_name": "CI/CD", "proficiency_level": 4}
+    ]
+  },
+  {
+    "employee_id": "EMP006",
+    "first_name": "Anita",
+    "last_name": "Desai",
+    "email": "anita.desai@company.com",
+    "department": "HR",
+    "hire_date": "2019-04-18",
+    "role": "HR Manager",
+    "skills": [
+      {"skill_name": "Recruitment", "proficiency_level": 5},
+      {"skill_name": "Employee Relations", "proficiency_level": 4},
+      {"skill_name": "Performance Management", "proficiency_level": 4},
+      {"skill_name": "Training & Development", "proficiency_level": 3},
+      {"skill_name": "Communication", "proficiency_level": 5}
+    ]
+  },
+  {
+    "employee_id": "EMP007",
+    "first_name": "Rohan",
+    "last_name": "Joshi",
+    "email": "rohan.joshi@company.com",
+    "department": "Engineering",
+    "hire_date": "2023-01-10",
+    "role": "Junior Software Developer",
+    "skills": [
+      {"skill_name": "JavaScript", "proficiency_level": 2},
+      {"skill_name": "HTML/CSS", "proficiency_level": 3},
+      {"skill_name": "React", "proficiency_level": 1},
+      {"skill_name": "SQL", "proficiency_level": 1}
+    ]
+  },
+  {
+    "employee_id": "EMP008",
+    "first_name": "Kavya",
+    "last_name": "Nair",
+    "email": "kavya.nair@company.com",
+    "department": "Data Science",
+    "hire_date": "2021-09-15",
+    "role": "Data Scientist",
+    "skills": [
+      {"skill_name": "Python", "proficiency_level": 5},
+      {"skill_name": "Machine Learning", "proficiency_level": 4},
+      {"skill_name": "Statistics", "proficiency_level": 4},
+      {"skill_name": "SQL", "proficiency_level": 4},
+      {"skill_name": "TensorFlow", "proficiency_level": 3},
+      {"skill_name": "Deep Learning", "proficiency_level": 3}
+    ]
+  }
+]
